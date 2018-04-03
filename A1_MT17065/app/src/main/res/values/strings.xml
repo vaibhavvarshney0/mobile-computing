@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">shortcut@IIITD</string>
+    <string name="choose">Choose your language</string>
+    <string name="iiit">What is IIITD?</string>
+    <string name="programs">available programmes</string>
+    <string name="admsn">admission at UG level</string>
+
+    <string-array name="languages">
+        <item>choose language</item>
+        <item>English</item>
+        <item>हिंदी</item>
+    </string-array>
+
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+
+    <string name="iiitd_detail">
+        What is IIITD?
+
+        Indraprastha Institute of Information Technology, Delhi (aka. IIIT-Delhi or IIIT-D) was created as a State University by an act of Delhi Government (The IIIT Delhi Act, 2007) empowering it to do research and development and grant degrees. IIIT-Delhi was officially established on 10th June, 2008 as per this notification in the Delhi Gazette.
+        First class (for BTech(CSE) students) was held on 8th September, 2008. \n The institute began with its first batch of 60 BTech students in 2008. This first batch graduated in 2012 - the first Convocation took place in November, 2012.
+
+        By end of 2012, the institute has attracted nearly 30 faculty members, and its academic program consisted of B.Tech., M.Tech. and Ph.D. programs in CSE and ECE. In a relatively short time, it has earned a good reputation in India and abroad for being a center of quality education and research in IT.
+        2012 turned out be more remarkable year because during the summer of this year, the institute started functioning from its permanent campus in Okhla. Smt. Sheila Dikshit, Chief Minister of Delhi, inaugurated the campus in October, 2012.
+        The early days of this institute was chronicled by the founding and current Director in his blog here. See below for a list of all the major events of the institute so far.</string>
+
+    <string name="courses">
+
+        B.Tech Admissions Page\n
+        Following programs are offered: \n \n
+
+        Computer Science and Engineering (CSE) \n
+        1. Electronics and Communications Engineering (ECE) \n
+        2. Computer Science and Applied Mathematics (CSAM) \n
+        3. Computer Science and Design (CSD) \n
+        4. Information Technology and Social Sciences (ITSS) \n \n
+
+        M.Tech Admissions Page \n
+        Following programs are offered: \n \n
+
+        1. Computer Science and Engineering (CSE) \n
+        2. Electronics and Communications Engineering (ECE) \n
+        3. Computational Biology (CB) \n \n
+
+        PhD Admissions Page \n
+        Following programs are offered: \n \n
+
+        1. Computer Science and Engineering (CSE) \n
+        2. Electronics and Communications Engineering (ECE) \n
+        3. Computational Biology (CB) \n
+        4. Mathematics (Maths) \n
+
+
+    </string>
+
+    <string name="ug">
+        The college accepts online applications for admissions in various undergraduate courses.\n\n
+
+        Follwoing steps are to be followed to take admission in the college:\n\n
+
+        1. Pick your course:\n
+
+        You have to first decide what course you are planning to pursue and the eligibility criteria. It’s better to check the cut-off of the last years to get a fair idea.\n\n
+
+        2. Get registered:\n
+
+        You need to get registered on the official website and upload all relevant documents. After the registration is over, an acknowledgement slip and form number will be generated. Take the printout of the acknowledgement slip.\n\n
+
+        3. Cut-off:\n
+
+        Once college releases the first cut-off, students have to login through their registered ID and select the colleges in which they wish to get admission. Remember to take a printout of the acknowledgement slip.\n\n
+
+        4. Visit college:\n
+
+        Go to the college you applied for along with the acknowledgement slip and relevant documents like Board certificates etc. Keep in mind that the admission will be done within three days of the cut-off declaration.\n\n
+
+        5. Verification process:\n
+
+        Your submitted documents will be verified by the concern officials. If everything is found correct, your documents will be sent for further official purposes. Once all formalities are done, you’ll receive admission slip signed by the college principal.\n\n
+
+    </string>
+    <string name="button_click"><![CDATA[>>>]]></string>
+</resources>
+
+
